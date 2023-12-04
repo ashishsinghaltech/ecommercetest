@@ -1,0 +1,1 @@
+export const AppBaseColor = '#9F331C'
